@@ -41,18 +41,18 @@ footer:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/samuel-hill/
-  - title: 
-    url:
-  - title: 
-    url: 
-  - title: 
-    url: 
+#  - title: 
+#    url:
+#  - title: 
+#    url: 
+#  - title: 
+#    url: 
   - title: github
     url: https://github.com/whatthesamhill
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 
+#  - line: 
   - line: Atlanta, GA 30547
 
 # Credits content
